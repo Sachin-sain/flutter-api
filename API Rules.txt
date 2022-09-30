@@ -1,0 +1,27 @@
+Note1:-When not given the array name or api create using the create model
+Note2:- For the ApI requirment (postman , json placeholder,install plugin dart to dart and create the model, 
+dependencies, http package )
+
+Note 3:-Future ka use hum wait ke liye karte h jab tak ki koi response nhi aa jata h server se.
+Note 4:-Json Viewer(it is used for the view the our API hierarchy )
+Note 5:-Webhook(it is used for create the fake API)
+
+					(1.Get API)=>jsonplaceholder
+=>using model(plugin)
+=>using without model or create the model itself
+=>using both(model +create model)
+
+Step 1:-Add http dependencies in pubspec.yml using the pub dev.
+Step 2:-import http package.
+Step 3:-Create model in lib .
+Step 4:-Click the model and go to dart to dart and after thar we are move to the jsonpalceholder and here to the 
+	get the post\ in postman and postman to the all key and value copy in the Model using the create name as 
+        you choice.
+
+      				
+					(2.Post API)=>reqres.in
+=>Add dependencies.
+=>it is used for the login and upload the image to server.
+
+
+  
